@@ -27,7 +27,7 @@ namespace ElasticDiagnostic
                     .Matches(json, regex)
                     .Select(m => m.Value);
             
-            Console.WriteLine(json);
+            Console.WriteLine(string.Join(", ", matches));
         }
     }
 }
