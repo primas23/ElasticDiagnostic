@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
+using Newtonsoft.Json;
 
 namespace ElasticDiagnostic
 {
@@ -14,6 +15,8 @@ namespace ElasticDiagnostic
             var allEntities = GetAllIndexes(fileData);
             var uniqueEntities = GetGroupIndexesByUniqueEntities(allEntities);
 
+            var jObject = JsonConvert.DeserializeObject(fileData);
+            var item = jObject["workplaces_001"];
             Console.WriteLine(uniqueEntities.Count);
         }
 
