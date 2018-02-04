@@ -17,7 +17,7 @@ namespace ElasticDiagnostic
                 lines = reader.ReadToEnd();
             }
 
-            var uniqueEntities = new List<string>();
+            var uniqueEntities = new Dictionary<string, List<string>>();
             var regex = @"(\w+_)(\d*)";
 
             var allEntities = Regex
@@ -30,20 +30,17 @@ namespace ElasticDiagnostic
             {
                 var entityName = entity.Split("_")[0];
 
-                if (!uniqueEntities.Contains(entityName))
+                if (!uniqueEntities.ContainsKey(entityName))
                 {
-                    uniqueEntities.Add(entityName);
+                    uniqueEntities.Add(entityName, new List<string>());
+                }
+                else
+                {
+                    uniqueEntities[entityName].Add(entity);
                 }
             }
 
-            foreach (var entity in uniqueEntities)
-            {
-                var entityCount = allEntities.Where(e => e.StartsWith(entity));
-
-                Console.WriteLine(entity + " " + entityCount.Count());
-            }
-
-            //Console.WriteLine(string.Join(", " + Environment.NewLine, allEntities));
+            Console.WriteLine();
         }
     }
 }
