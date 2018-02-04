@@ -1,11 +1,1808 @@
 {
-    "pdts_007": {},
-    "pdt_001": {},
-    "pdt_002": {},
-    "pdt_004": {},
-    "pdts_005": {},
-    "pdts_006": {},
-    "pdts_008": {},
-    "pdt_003": {},
-    "pdts_009": {},
+
+    ".watcher-history-6-2018.01.21": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.07": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.30": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.24": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.10": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.22": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.21": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.16": {
+
+        "aliases": {}
+
+    },
+
+    "classifications_008": {
+
+        "aliases": {}
+
+    },
+
+    "pdts_013": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.09.10": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.11.19": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.11.24": {
+
+        "aliases": {}
+
+    },
+
+    "pdts_011": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.16": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.05.15": {
+
+        "aliases": {}
+
+    },
+
+    "products_009": {
+
+        "aliases": {}
+
+    },
+
+    "pts_010": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.07": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.30": {
+
+        "aliases": {}
+
+    },
+
+    ".triggered_watches": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.20": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.05.18": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.09.09": {
+
+        "aliases": {}
+
+    },
+
+    "classifications_007": {
+
+        "aliases": {}
+
+    },
+
+    "classifications_006": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.19": {
+
+        "aliases": {}
+
+    },
+
+    "pdts_004": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-kibana-2-2017.07.26": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-data-2": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.14": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-es-6-2018.01.30": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.26": {
+
+        "aliases": {}
+
+    },
+
+    "documents_002": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.02": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-kibana-2-2017.07.28": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.16": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.17": {
+
+        "aliases": {}
+
+    },
+
+    "pts_007": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-kibana-2-2017.07.22": {
+
+        "aliases": {}
+
+    },
+
+    "pts_009": {
+
+        "aliases": {}
+
+    },
+
+    "products_012": {
+
+        "aliases": {}
+
+    },
+
+    "pts_002": {
+
+        "aliases": {}
+
+    },
+
+    "products_002": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.09.19": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.01": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.04": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.09.01": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-kibana-6-2018.01.30": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.07": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.07": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.31": {
+
+        "aliases": {}
+
+    },
+
+    "accounts_006": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.22": {
+
+        "aliases": {}
+
+    },
+
+    "documents_001": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.09": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-kibana-6-2018.01.27": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.09.17": {
+
+        "aliases": {}
+
+    },
+
+    "pdts_008": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.25": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.04": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.15": {
+
+        "aliases": {}
+
+    },
+
+    "accounts_010": {
+
+        "aliases": {
+
+            "accounts": {}
+
+        }
+
+    },
+
+    ".watcher-history-3-2017.05.23": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.09.11": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.11": {
+
+        "aliases": {}
+
+    },
+
+    "pdts_009": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.13": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.09.16": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.17": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.05.26": {
+
+        "aliases": {}
+
+    },
+
+    "documents_011": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.06": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-kibana-2-2017.07.27": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.19": {
+
+        "aliases": {}
+
+    },
+
+    "classifications_011": {
+
+        "aliases": {
+
+            "classifications": {}
+
+        }
+
+    },
+
+    ".watcher-history-3-2017.07.03": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.11.26": {
+
+        "aliases": {}
+
+    },
+
+    "pdts_014": {
+
+        "aliases": {}
+
+    },
+
+    "products_011": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.11.27": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.09": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.18": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.29": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.05.24": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.28": {
+
+        "aliases": {}
+
+    },
+
+    "linear_classifications_011": {
+
+        "aliases": {
+
+            "linear_classifications": {}
+
+        }
+
+    },
+
+    ".watcher-history-3-2017.08.23": {
+
+        "aliases": {}
+
+    },
+
+    "workplaces_001": {
+
+        "aliases": {
+
+            "workplaces": {}
+
+        }
+
+    },
+
+    "documents_007": {
+
+        "aliases": {}
+
+    },
+
+    "pts_011": {
+
+        "aliases": {}
+
+    },
+
+    "pdts_001": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.06": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.09.20": {
+
+        "aliases": {}
+
+    },
+
+    "products_001": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.22": {
+
+        "aliases": {}
+
+    },
+
+    "pdts_012": {
+
+        "aliases": {}
+
+    },
+
+    "classifications_002": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.20": {
+
+        "aliases": {}
+
+    },
+
+    "accounts_007": {
+
+        "aliases": {}
+
+    },
+
+    "pts_008": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-es-2-2017.07.22": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.05.30": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.18": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.11.13": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.10": {
+
+        "aliases": {}
+
+    },
+
+    "properties_006": {
+
+        "aliases": {
+
+            "properties": {}
+
+        }
+
+    },
+
+    ".watcher-history-6-2017.09.14": {
+
+        "aliases": {}
+
+    },
+
+    "pts_004": {
+
+        "aliases": {}
+
+    },
+
+    "pdts_010": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.04": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.24": {
+
+        "aliases": {}
+
+    },
+
+    "documents_008": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.31": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.16": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.30": {
+
+        "aliases": {}
+
+    },
+
+    "products_014": {
+
+        "aliases": {
+
+            "products": {}
+
+        }
+
+    },
+
+    ".watcher-history-6-2018.01.07": {
+
+        "aliases": {}
+
+    },
+
+    "accounts_008": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.17": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.21": {
+
+        "aliases": {}
+
+    },
+
+    "classifications_001": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.08": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.23": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.05": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.13": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.13": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.11.09": {
+
+        "aliases": {}
+
+    },
+
+    "documents_012": {
+
+        "aliases": {}
+
+    },
+
+    "products_007": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.21": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.11.20": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.19": {
+
+        "aliases": {}
+
+    },
+
+    "products_003": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.25": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.17": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.05.22": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.09.22": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.12": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.04": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-es-6-2018.01.31": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.12": {
+
+        "aliases": {}
+
+    },
+
+    "products_013": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.05.11": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.05.14": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.11.02": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.10": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.11.12": {
+
+        "aliases": {}
+
+    },
+
+    "pdts_005": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-es-2-2017.07.24": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.09.24": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.05.28": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.18": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.22": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.11": {
+
+        "aliases": {}
+
+    },
+
+    "accounts_005": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.11.07": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.08": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.01": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.08": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.06": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.28": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.14": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.11.17": {
+
+        "aliases": {}
+
+    },
+
+    "linear_classifications_004": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.12": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.26": {
+
+        "aliases": {}
+
+    },
+
+    "products_006": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.14": {
+
+        "aliases": {}
+
+    },
+
+    "pdts_006": {
+
+        "aliases": {}
+
+    },
+
+    "products_005": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.09.28": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.11.05": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.05.13": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.27": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.15": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.11": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.09.08": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.09.03": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.12": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.27": {
+
+        "aliases": {}
+
+    },
+
+    "classifications_010": {
+
+        "aliases": {}
+
+    },
+
+    "classifications_003": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.09": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.14": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.05": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.10": {
+
+        "aliases": {}
+
+    },
+
+    "uses_001": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.27": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-es-6-2018.01.27": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.09.02": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.05": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.25": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.10": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.16": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-kibana-2-2017.07.25": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.22": {
+
+        "aliases": {}
+
+    },
+
+    "documents_006": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.21": {
+
+        "aliases": {}
+
+    },
+
+    "uses_002": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.28": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.05": {
+
+        "aliases": {}
+
+    },
+
+    "documents_009": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.01": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.11.03": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.09.06": {
+
+        "aliases": {}
+
+    },
+
+    "uses_006": {
+
+        "aliases": {
+
+            "uses": {}
+
+        }
+
+    },
+
+    ".watcher-history-3-2017.05.29": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.28": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.02": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.29": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.09.29": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-es-6-2018.01.29": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.11": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-es-6-2018.01.28": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.30": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.06": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.23": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-kibana-6-2018.01.28": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.14": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.23": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.22": {
+
+        "aliases": {}
+
+    },
+
+    "pts_005": {
+
+        "aliases": {}
+
+    },
+
+    "documents_003": {
+
+        "aliases": {}
+
+    },
+
+    "pts_012": {
+
+        "aliases": {
+
+            "pts": {}
+
+        }
+
+    },
+
+    ".watcher-history-3-2017.08.29": {
+
+        "aliases": {}
+
+    },
+
+    "documents_014": {
+
+        "aliases": {
+
+            "documents": {}
+
+        }
+
+    },
+
+    ".monitoring-kibana-2-2017.07.24": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.05.20": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.05.10": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.05.25": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-alerts-6": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.09.12": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.19": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.20": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.24": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.27": {
+
+        "aliases": {}
+
+    },
+
+    "uses_004": {
+
+        "aliases": {}
+
+    },
+
+    "uses_005": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.30": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.02": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.04": {
+
+        "aliases": {}
+
+    },
+
+    "pts_001": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2018.01.25": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.02": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.23": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.26": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.11.18": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.09.12": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.09": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.09.30": {
+
+        "aliases": {}
+
+    },
+
+    "linear_classifications_006": {
+
+        "aliases": {}
+
+    },
+
+    "pdts_003": {
+
+        "aliases": {}
+
+    },
+
+    "products_010": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.03": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.03": {
+
+        "aliases": {}
+
+    },
+
+    "pdts_002": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.05.17": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.08": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.13": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.26": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.21": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.16": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-es-2-2017.07.26": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.09.18": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-alerts-2": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.09.07": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.29": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.06": {
+
+        "aliases": {}
+
+    },
+
+    "linear_classifications_005": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-kibana-6-2018.02.01": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.18": {
+
+        "aliases": {}
+
+    },
+
+    "linear_classifications_008": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.01": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.11.04": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-es-2-2017.07.28": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.15": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.10.31": {
+
+        "aliases": {}
+
+    },
+
+    ".watches": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.08": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.09.15": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-es-6-2018.01.26": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-kibana-2-2017.07.23": {
+
+        "aliases": {}
+
+    },
+
+    "classifications_004": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.05.31": {
+
+        "aliases": {}
+
+    },
+
+    ".monitoring-es-6-2018.02.01": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.07.10": {
+
+        "aliases": {}
+
+    },
+
+    "properties_002": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.13": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.05.09": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.06.28": {
+
+        "aliases": {}
+
+    },
+
+    "uses_003": {
+
+        "aliases": {}
+
+    },
+
+    "pts_003": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-3-2017.08.17": {
+
+        "aliases": {}
+
+    },
+
+    ".watcher-history-6-2017.12.20": {
+
+        "aliases": {}
+
+    }
 }

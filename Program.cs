@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 
@@ -8,26 +9,23 @@ namespace ElasticDiagnostic
     {
         public static void Main()
         {
-            var json = @"
+            var lines = string.Empty;
+            var fileStream = new FileStream("elastic.json", FileMode.Open);
+            using (var reader = new StreamReader(fileStream))
             {
-                ""pdts_007"": {},
-                ""pdt_003"": {},
-                ""pdt_002"": {},
-                ""pdts_005"": {},
-                ""pdts_006"": {},
-                ""pdt_001"": {},
-                ""pdts_008"": {},
-                ""pdts_009"": {},                
-                ""pdt_004"": {}
-            }";
+                lines = reader.ReadToEnd();
+            }
 
-            var regex = @"pdt_\d*";
+            // var regex = @"(\w+)_\d*";
+            var regex = @"\w+_(\d*)";
 
             var matches = Regex
-                    .Matches(json, regex)
-                    .Select(m => m.Value);
-            
-            Console.WriteLine(string.Join(", ", matches));
+                    .Matches(lines, regex)
+                    .Where(m => m.Groups[1].Value.Length > 0)
+                    .Select(m => m.Value)
+                    .OrderBy(a => a);
+
+            Console.WriteLine(string.Join(", " + Environment.NewLine, matches));
         }
     }
 }
