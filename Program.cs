@@ -10,21 +10,16 @@ namespace ElasticDiagnostic
     {
         public static void Main()
         {
-            var lines = string.Empty;
-            var fileStream = new FileStream("elastic.json", FileMode.Open);
-            using (var reader = new StreamReader(fileStream))
-            {
-                lines = reader.ReadToEnd();
-            }
+            var fileData = GetFileData("elastic.json");
+            var allEntities = GetAllIndexes(fileData);
+            var uniqueEntities = GetAllEntities(allEntities);
 
+            Console.WriteLine(uniqueEntities.Count);
+        }
+
+        private static Dictionary<string, List<string>> GetAllEntities(IOrderedEnumerable<string> allEntities)
+        {
             var uniqueEntities = new Dictionary<string, List<string>>();
-            var regex = @"(\w+_)(\d*)";
-
-            var allEntities = Regex
-                    .Matches(lines, regex)
-                    .Where(m => m.Groups[2].Value.Length > 0)
-                    .Select(m => m.Value)
-                    .OrderBy(a => a);
 
             foreach (var entity in allEntities)
             {
@@ -34,13 +29,36 @@ namespace ElasticDiagnostic
                 {
                     uniqueEntities.Add(entityName, new List<string>());
                 }
-                else
-                {
-                    uniqueEntities[entityName].Add(entity);
-                }
+
+                uniqueEntities[entityName].Add(entity);
             }
 
-            Console.WriteLine();
+            return uniqueEntities;
+        }
+
+        private static IOrderedEnumerable<string> GetAllIndexes(string fileData)
+        {
+            var regex = @"(\w+_)(\d*)";
+
+            var allEntities = Regex
+                    .Matches(fileData, regex)
+                    .Where(m => m.Groups[2].Value.Length > 0)
+                    .Select(m => m.Value)
+                    .OrderBy(a => a);
+
+            return allEntities;
+        }
+
+        private static string GetFileData(string filePath)
+        {
+            string lines = string.Empty;
+            var fileStream = new FileStream(filePath, FileMode.Open);
+            using (var reader = new StreamReader(fileStream))
+            {
+                lines = reader.ReadToEnd();
+            }
+
+            return lines;
         }
     }
 }
