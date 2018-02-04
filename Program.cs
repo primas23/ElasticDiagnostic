@@ -12,12 +12,12 @@ namespace ElasticDiagnostic
         {
             var fileData = GetFileData("elastic.json");
             var allEntities = GetAllIndexes(fileData);
-            var uniqueEntities = GetAllEntities(allEntities);
+            var uniqueEntities = GetGroupIndexesByUniqueEntities(allEntities);
 
             Console.WriteLine(uniqueEntities.Count);
         }
 
-        private static Dictionary<string, List<string>> GetAllEntities(IOrderedEnumerable<string> allEntities)
+        private static Dictionary<string, List<string>> GetGroupIndexesByUniqueEntities(IOrderedEnumerable<string> allEntities)
         {
             var uniqueEntities = new Dictionary<string, List<string>>();
 
