@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -16,16 +17,26 @@ namespace ElasticDiagnostic
                 lines = reader.ReadToEnd();
             }
 
-            // var regex = @"(\w+)_\d*";
-            var regex = @"\w+_(\d*)";
+            var uniqueEntities = new List<string>();
+            var regex = @"(\w+_)(\d*)";
 
-            var matches = Regex
+            var allEntities = Regex
                     .Matches(lines, regex)
-                    .Where(m => m.Groups[1].Value.Length > 0)
+                    .Where(m => m.Groups[2].Value.Length > 0)
                     .Select(m => m.Value)
                     .OrderBy(a => a);
 
-            Console.WriteLine(string.Join(", " + Environment.NewLine, matches));
+            foreach (var entity in allEntities)
+            {
+                var entityName = entity.Split("_")[0];
+
+                if(!uniqueEntities.Contains(entityName))
+                {
+                    uniqueEntities.Add(entityName);
+                }
+            }
+
+            Console.WriteLine(string.Join(", " + Environment.NewLine, allEntities));
         }
     }
 }
