@@ -30,13 +30,20 @@ namespace ElasticDiagnostic
             {
                 var entityName = entity.Split("_")[0];
 
-                if(!uniqueEntities.Contains(entityName))
+                if (!uniqueEntities.Contains(entityName))
                 {
                     uniqueEntities.Add(entityName);
                 }
             }
 
-            Console.WriteLine(string.Join(", " + Environment.NewLine, allEntities));
+            foreach (var entity in uniqueEntities)
+            {
+                var entityCount = allEntities.Where(e => e.StartsWith(entity));
+
+                Console.WriteLine(entity + " " + entityCount.Count());
+            }
+
+            //Console.WriteLine(string.Join(", " + Environment.NewLine, allEntities));
         }
     }
 }
